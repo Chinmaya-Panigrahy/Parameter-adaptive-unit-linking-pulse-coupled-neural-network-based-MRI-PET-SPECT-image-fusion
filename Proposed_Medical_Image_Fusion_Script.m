@@ -1,5 +1,7 @@
 
+%This package contains the matlab code of the following paper:
 
+%Panigrahy, C., Seal, A., Gonzalo-Martín, C., Pathak, P., & Jalal, A. S. (2023). Parameter adaptive unit-linking pulse coupled neural network based MRI–PET/SPECT image fusion. Biomedical Signal Processing and Control, 83, 104659. DOI: 10.1016/j.bspc.2023.104659.
  clear all
  P=imread('MRI.png');  % A MxN matrix
  figure, imshow(P) 
